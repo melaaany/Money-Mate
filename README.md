@@ -78,54 +78,8 @@ The dashboard provides:
 * intl
 * Material Design 3
 
-## Currency
-
-MoneyMate uses Indonesian Rupiah (IDR) as the only currency format.
-
-Examples:
-
-* Rp 50.000
-* Rp 150.000
-* Rp 1.250.000
-* Rp 10.500.000
-
-## Project Structure
-
-```text
-lib/
-├── models/
-├── providers/
-├── services/
-├── screens/
-├── widgets/
-├── routes/
-├── theme/
-├── utils/
-└── main.dart
-```
-
-## Getting Started
-
-1. Clone this repository
-
-```bash
-git clone <repository_url>
-```
-
-2. Install dependencies
-
-```bash
-flutter pub get
-```
-
-3. Run the application
-
-```bash
-flutter run
-```
-
 ## Developed By
 
-MoneyMate Development Team
+MoneyMate Development Amelia
 
 A modern and user-friendly finance application designed to help Indonesian users manage their money wisely.
