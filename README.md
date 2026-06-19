@@ -61,23 +61,6 @@ The dashboard provides:
 * Active Split Bills
 * Income and Expense Charts
 
-### Authentication
-
-* Splash Screen
-* Login
-* Register
-* Google Sign In
-* Forgot Password
-
-## Technology Stack
-
-* Flutter
-* Provider State Management
-* Hive Local Database
-* fl_chart
-* intl
-* Material Design 3
-
 ## Developed By
 
 MoneyMate Development Amelia
