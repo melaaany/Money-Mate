@@ -2,8 +2,6 @@
 
 MoneyMate is a personal finance management mobile application developed using Flutter. This application helps users manage their finances more efficiently by recording income and expenses, allocating funds into financial pockets, and splitting bills with friends or family.
 
-The application is designed specifically for Indonesian users and uses Indonesian Rupiah (IDR) as the default currency for all financial transactions.
-
 ## Features
 
 ### Income and Expense Tracking
